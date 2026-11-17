@@ -1,0 +1,24 @@
+{
+  "routerMap": [
+    {
+      "name": "ImportPage",
+      "buildFunction": "ImportPageBuilder",
+      "pageSourceFile": "src/main/ets/pages/ImportPage.ets"
+    },
+    {
+      "name": "ChatPage",
+      "buildFunction": "ChatPageBuilder",
+      "pageSourceFile": "src/main/ets/pages/ChatPage.ets"
+    },
+    {
+      "name": "SettingsPage",
+      "buildFunction": "SettingsPageBuilder",
+      "pageSourceFile": "src/main/ets/pages/SettingsPage.ets"
+    },
+    {
+      "name": "CoachPage",
+      "buildFunction": "CoachPageBuilder",
+      "pageSourceFile": "src/main/ets/pages/CoachPage.ets"
+    }
+  ]
+}
